@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/now/2019/05/29/1559101786676_TV2219RealityNews105.jpg?width=600&height=315&quality=75&mode=crop",
     "name": "Matt Preston",
     "experience": "20 years",
     "numOfRecipes": 5,
@@ -14,7 +14,8 @@
           "4 garlic cloves, peeled",
           "6 fresh rosemary sprigs",
           "1kg potatoes, peeled and chopped into chunks",
-          "500g carrots, peeled and chopped into chunks"
+          "500g carrots, peeled and chopped into chunks",
+          "Salt and pepper"
         ],
         "cooking_method": "Preheat the oven to 180C. Make small incisions all over the lamb and insert a piece of garlic and a small sprig of rosemary into each. Season with salt and pepper. Place the lamb in a roasting tray and roast for 1 hour. Add the potatoes and carrots to the tray and roast for another 30 minutes.",
         "rating": 4.8
@@ -54,7 +55,7 @@
   },
   {
     "id": 2,
-    "picture": "https://example.com/chef2.jpg",
+    "picture": "https://images.squarespace-cdn.com/content/v1/5a5fdc4f32601ef5683847c2/1555985601854-RCTJHV3YZ4E712FRM38H/ke17ZwdGBToddI8pDm48kAJL34WgVyxuhaZNa7Z1p6R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UQ2k5JsM-5kwHbyto5xavrAsdbQSz0rvDjqe1LEAMxmcTi8HWjhfOMceW7FFMLdz1Q/9D1A1376_edited.jpg?format=original",
     "name": "Curtis Stone",
     "experience": "15 years",
     "numOfRecipes": 6,
@@ -110,7 +111,7 @@
   },
   {
     "id": 3,
-    "picture": "https://example.com/chef3.jpg",
+    "picture": "https://images-1d71.kxcdn.com/images/resized/size-misc_massive_sw/2013/07/12/06/18/06/055/maggie_9_nov_16__1_.jpg",
     "name": "Maggie Beer",
     "experience": "30 years",
     "numOfRecipes": 7,
@@ -162,9 +163,9 @@
   },
   {
     "id": 4,
-    "picture": "https://example.com/chef3.jpg",
+    "picture": "https://theweekendedition.com.au/wp-content/uploads/2019/10/TWE-Matt-Moran-1100x550-c-center.png",
     "name": "Matt Moran",
-    "experience": 30,
+    "experience": "16 years",
     "numOfRecipes": 5,
     "likes": 5000,
     "recipes": [
@@ -224,44 +225,48 @@
   },
   {
     "id": 5,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://i.natgeofe.com/n/8fb4c7a9-4479-467d-ada5-144a7300c072/neil-perry-chef-sydney-590.jpg?w=1272&h=848",
     "name": "Neil Perry",
-    "experience": 35,
-    "numOfRecipes": 20,
+    "experience": "35 years",
+    "numOfRecipes": 12,
     "likes": 12000,
     "recipes": [
       {
-        "recipe_name": "Grilled Barramundi with Salsa Verde",
+        "name": "Grilled Barramundi with Salsa Verde",
         "ingredients": [
           "4 barramundi fillets",
           "1/4 cup olive oil",
           "1/4 cup chopped fresh parsley",
           "2 tablespoons capers, rinsed and drained",
-          "2 tablespoons chopped fresh basil"
+          "2 tablespoons chopped fresh basil",
+          "Salt and pepper"
         ],
         "cooking_method": "Heat a grill pan over high heat. Brush the barramundi fillets with olive oil and season with salt and pepper. Grill the fillets for 2-3 minutes on each side, until cooked through. In a small bowl, mix the parsley, capers, basil, and olive oil. Serve the grilled barramundi with the salsa verde.",
         "rating": 4.8
       },
       {
-        "recipe_name": "Prawn and Mango Salad",
+        "name": "Prawn and Mango Salad",
         "ingredients": [
           "1 kg cooked prawns, peeled and deveined",
           "2 mangoes, peeled and diced",
           "1/2 cup chopped fresh cilantro",
           "2 tablespoons lime juice",
-          "2 tablespoons olive oil"
+          "2 tablespoons olive oil",
+          "Salt and pepper"
         ],
         "cooking_method": "In a large bowl, mix the prawns, mangoes, and cilantro. In a small bowl, whisk the lime juice and olive oil together. Pour the dressing over the prawn and mango mixture and toss to combine. Serve immediately.",
         "rating": 4.5
       },
       {
-        "recipe_name": "Beef Rendang",
+        "name": "Beef Rendang",
         "ingredients": [
           "1 kg beef chuck roast, cut into 2-inch cubes",
           "2 cups coconut milk",
           "1/4 cup tamarind paste",
           "1 cinnamon stick",
-          "6 kaffir lime leaves"
+          "6 kaffir lime leaves",
+          "1/2 cup chopped fresh basil",
+          "Salt and pepper"
         ],
         "cooking_method": "In a large pot, combine the beef, coconut milk, tamarind paste, cinnamon stick, and kaffir lime leaves. Bring to a boil over high heat. Reduce the heat to low and simmer for 2-3 hours, until the beef is tender and the sauce is thickened. Serve with rice.",
         "rating": 4.7
@@ -270,9 +275,9 @@
   },
   {
     "id": 6,
-    "picture": "https://example.com/shannon_bennett.jpg",
+    "picture": "https://i.dailymail.co.uk/1s/2021/06/03/12/43784757-9647939-image-a-86_1622718880203.jpg",
     "name": "Shannon Bennett",
-    "experience": 30,
+    "experience": "22 years",
     "numOfRecipes": 8,
     "likes": 3800,
     "recipes": [
@@ -314,6 +319,7 @@
           "6 cloves garlic, minced",
           "2 tablespoons fresh rosemary leaves, chopped",
           "2 tablespoons olive oil",
+          "1/2 cup grated butter",
           "Salt and pepper"
         ],
         "cooking_method": "Preheat oven to 425 degrees F. In a small bowl, mix together the garlic, rosemary, olive oil, salt, and pepper. Rub the mixture onto the lamb. Place the lamb in a roasting pan and roast for 15 minutes. Reduce heat to 350 degrees F and continue roasting for another 1-1.5 hours, until the internal temperature reaches 135 degrees F for medium-rare. Remove from the oven and let rest for 15-20 minutes before slicing.",
