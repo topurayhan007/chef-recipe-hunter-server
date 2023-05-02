@@ -4,6 +4,7 @@ const cors = require("cors");
 const port = process.env.PORT || 5000;
 
 const chefs = require("./data/chefs.json");
+const tips = require("./data/cooking-tips.json");
 
 app.use(cors());
 
@@ -13,6 +14,11 @@ app.get("/", (req, res) => {
 
 app.get("/chefs", (req, res) => {
   res.send(chefs);
+});
+
+app.get("/tip", (req, res) => {
+  const randomTip = tips[Math.floor(Math.random() * tips.length)];
+  res.send(randomTip);
 });
 
 app.listen(port, () => {
