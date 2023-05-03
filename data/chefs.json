@@ -5,7 +5,7 @@
     "name": "Matt Preston",
     "experience": "20 years",
     "numOfRecipes": 5,
-    "likes": 500,
+    "likes": 412,
     "recipes": [
       {
         "name": "Lamb Roast",
@@ -59,7 +59,7 @@
     "name": "Curtis Stone",
     "experience": "15 years",
     "numOfRecipes": 6,
-    "likes": 600,
+    "likes": 631,
     "recipes": [
       {
         "name": "Grilled Barramundi",
@@ -167,7 +167,7 @@
     "name": "Matt Moran",
     "experience": "16 years",
     "numOfRecipes": 5,
-    "likes": 5000,
+    "likes": 499,
     "recipes": [
       {
         "name": "Beef and Guinness Pie",
@@ -229,7 +229,7 @@
     "name": "Neil Perry",
     "experience": "35 years",
     "numOfRecipes": 12,
-    "likes": 12000,
+    "likes": 223,
     "recipes": [
       {
         "name": "Grilled Barramundi with Salsa Verde",
@@ -279,7 +279,7 @@
     "name": "Shannon Bennett",
     "experience": "22 years",
     "numOfRecipes": 8,
-    "likes": 3800,
+    "likes": 380,
     "recipes": [
       {
         "name": "Slow-cooked Beef Brisket",
