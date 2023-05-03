@@ -1,18 +1,23 @@
 [
   {
-    "name": "Confit of Tasmanian Ocean Trout",
-    "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tetsuyas-Ocean-Trout.jpg/2560px-Tetsuyas-Ocean-Trout.jpg",
+    "name": "Chicken Parmigiana",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/1/12/Chicken_parmigiana.jpg",
     "ingredients": [
-      "1 lb Tasmanian ocean trout fillet",
-      "1/2 cup extra-virgin olive oil",
-      "1/2 cup kosher salt",
-      "2 tablespoons honey",
-      "2 tablespoons fresh lemon juice",
-      "1 teaspoon freshly ground black pepper",
-      "1 bunch fresh dill"
+      "4 chicken breasts",
+      "1/2 cup all-purpose flour",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon dried oregano",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon black pepper",
+      "2 eggs",
+      "1 cup Italian-seasoned breadcrumbs",
+      "1 cup tomato sauce",
+      "1 cup shredded mozzarella cheese",
+      "1/4 cup grated Parmesan cheese",
+      "2 tablespoons olive oil"
     ],
-    "cooking_method": "Preheat the oven to 200°C. Line a baking tray with baking paper. Rinse the fish fillet under cold water and pat dry with paper towels. In a mixing bowl, combine the olive oil, salt, honey, lemon juice and black pepper. Add the dill and stir well. Spread the mixture over the fish, pressing it down to make sure it adheres. Cover with plastic wrap and marinate in the refrigerator for at least 6 hours. Remove the plastic wrap and transfer the fish to the prepared baking tray. Bake for 10-15 minutes, or until cooked through. Let cool slightly before serving.",
-    "rating": 4.8
+    "cooking_method": "Preheat the oven to 190°C. Pound the chicken breasts until they are even in thickness. In a shallow dish, mix together the flour, garlic powder, oregano, salt, and pepper. In another shallow dish, whisk the eggs. In a third shallow dish, place the breadcrumbs. Dip each chicken breast first in the flour mixture, shaking off the excess, then in the egg mixture, and finally in the breadcrumbs. Heat the olive oil in a large skillet over medium-high heat. Add the chicken breasts and cook until browned, about 3 minutes per side. Remove from heat. Spread the tomato sauce over the chicken, then sprinkle with the mozzarella and Parmesan cheeses. Transfer the skillet to the oven and bake for 20-25 minutes, or until the cheese is melted and bubbly. Let cool slightly before serving.",
+    "rating": 4.6
   },
   {
     "name": "Moreton Bay Bug with Chips",
