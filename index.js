@@ -16,6 +16,14 @@ app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
 
+app.get("/chef-recipes/:id", (req, res) => {
+  const id = req.params.id;
+  // console.log(id, typeof id);
+  const selectedChef = chefs.find((chef) => chef.id === parseInt(id));
+  // console.log(selectedChef);
+  res.send(selectedChef);
+});
+
 app.get("/tip", (req, res) => {
   const randomTip = tips[Math.floor(Math.random() * tips.length)];
   res.send(randomTip);

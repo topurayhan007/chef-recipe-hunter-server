@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "picture": "https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/now/2019/05/29/1559101786676_TV2219RealityNews105.jpg?width=600&height=315&quality=75&mode=crop",
     "name": "Matt Preston",
     "experience": "20 years",
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 1,
     "picture": "https://images.squarespace-cdn.com/content/v1/5a5fdc4f32601ef5683847c2/1555985601854-RCTJHV3YZ4E712FRM38H/ke17ZwdGBToddI8pDm48kAJL34WgVyxuhaZNa7Z1p6R7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UQ2k5JsM-5kwHbyto5xavrAsdbQSz0rvDjqe1LEAMxmcTi8HWjhfOMceW7FFMLdz1Q/9D1A1376_edited.jpg?format=original",
     "name": "Curtis Stone",
     "experience": "15 years",
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 2,
     "picture": "https://images-1d71.kxcdn.com/images/resized/size-misc_massive_sw/2013/07/12/06/18/06/055/maggie_9_nov_16__1_.jpg",
     "name": "Maggie Beer",
     "experience": "30 years",
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 3,
     "picture": "https://theweekendedition.com.au/wp-content/uploads/2019/10/TWE-Matt-Moran-1100x550-c-center.png",
     "name": "Matt Moran",
     "experience": "16 years",
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "picture": "https://i.natgeofe.com/n/8fb4c7a9-4479-467d-ada5-144a7300c072/neil-perry-chef-sydney-590.jpg?w=1272&h=848",
     "name": "Neil Perry",
     "experience": "35 years",
@@ -274,7 +274,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "picture": "https://i.dailymail.co.uk/1s/2021/06/03/12/43784757-9647939-image-a-86_1622718880203.jpg",
     "name": "Shannon Bennett",
     "experience": "22 years",
